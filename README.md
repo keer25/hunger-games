@@ -1,5 +1,5 @@
 # hunger-games
-A MULTIPLAYER GAME PLAYED ACROSS LAN (Through file sharing)
+A MULTIPLAYER GAME PLAYED ACROSS LAN (Through file sharing. No graphics. Text based.)
 REQUIREMENTS
     Turbo c++ compiler
     Computers connected through LAN (A common server directory accessible by the client computers)
@@ -7,3 +7,5 @@ REQUIREMENTS
 INSTALLATION HELP
     While executing the directory should be set to the network directory or changes can be made in the code.
     No other files should be present in the network directory to avoid interference with gameplay
+    
+REFER TO THE INSTRUCTIONS FOR GAMEPLAY    
